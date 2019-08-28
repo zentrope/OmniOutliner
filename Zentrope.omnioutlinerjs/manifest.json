@@ -1,0 +1,11 @@
+{
+    "defaultLocale": "en",
+    "identifier": "com.zentrope.KeithPlugin",
+    "author": "Keith Irwin",
+    "description": "Keith's Collection of Actions",
+    "version": "2019.01",
+    "actions": [
+        {"image": "about.png", "identifier": "about"},
+        {"image": "strike.png", "identifier": "strike"}
+    ]
+}

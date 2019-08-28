@@ -1,0 +1,4 @@
+"label" = "About this PlugIn…";
+"shortLabel" = "About";
+"mediumLabel" = "About Medium";
+"longLabel" = "Show a dialog containing information about a PlugIn";
